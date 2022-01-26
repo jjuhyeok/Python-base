@@ -1,0 +1,6 @@
+s=[]
+for i in range(5):
+    a=int(input())
+    s.append(a)
+
+print(s[1:4])
